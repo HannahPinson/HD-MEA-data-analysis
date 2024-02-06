@@ -1,6 +1,6 @@
 # HD-MEA-data-analysis
 
-**This code is not cleaned/refactored yet. The clean version will be available end of July 2021.**
+**This code is not cleaned/refactored.**
 
 This is the code used to analyse the recorded activity of human dopaminergic neurons on an HD-MEA. 
 
